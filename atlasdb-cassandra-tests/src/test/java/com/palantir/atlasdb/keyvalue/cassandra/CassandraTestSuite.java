@@ -31,7 +31,8 @@ import org.junit.runners.Suite.SuiteClasses;
         CQLKeyValueServiceTransactionTest.class,
         CassandraTimestampTest.class,
         CassandraKeyValueServiceSweeperTest.class,
-        CQLKeyValueServiceSweeperTest.class
+        CQLKeyValueServiceSweeperTest.class,
+        CassandraKeyValueServiceTest.class
 })
 public class CassandraTestSuite {
 
